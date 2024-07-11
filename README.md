@@ -57,6 +57,3 @@ Key Features:
     
       The GUI enables users to register new users, view pending users, and check sent email logs.
       Actions are performed through a combination of form entries, dropdowns, and buttons, ensuring ease of use.
-
-#EmailManagementSystem
-#AutomaticEmailSender
